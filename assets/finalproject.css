@@ -1,0 +1,78 @@
+.graphs{
+
+    width: 35vw;
+    height: 44vh;
+    color: white;
+    text-align: center;
+    
+}
+
+.gauge{
+
+    width: 15vw;
+    height: 21vh;
+    margin-right: 0px;
+    margin-left: 3px;
+    margin-top: 10px;
+
+}
+.gauge1{
+    
+    width: 15vw;
+    height: 21vh;
+    margin-right: 0px;
+    margin-left: 3px;
+
+}
+
+.pl-2{
+
+    padding-left: 8px;
+}
+
+.bodycon{
+
+    padding-right: 0px;
+}
+
+#temp-graph, #hum-graph, #co2-graph, #misc-graph{
+    
+    height: 37vh;
+}
+
+#gtemp-graph, #ghum-graph, #gco2-graph, #gmisc-graph{
+    
+    height: 16vh;
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+
+
+.mr-2{
+
+    margin-right: 8px;
+}
+
+.gaugecol{
+
+    padding-left: 8px;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+p{
+
+    font-size: larger;
+    margin-bottom: 8px;
+    color: white;
+    align-items: center;
+}
+
+h5{
+    font-size: larger;
+    margin-bottom: 0px;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 2px;
+}
